@@ -21,7 +21,7 @@ Ideal for **educational purposes**, this project demystifies how libraries like 
 > Gradients are propagated backward through the computation graph via reverse-mode autodiff:
 
 <p align="center">
-  <img src="graph.svg" alt="Backpropagation DAG" width="600"/>
+  <img src="graph.svg" alt="Backpropagation DAG" width="1150"/>
 </p>
 
 ---
